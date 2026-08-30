@@ -2,10 +2,18 @@
 
 This repository hosts the main survey paper **"Towards Trustworthy Physical AI: From Theory to Practice across Life Cycle."**
 
-- **Paper (PDF):** [`Towards_Trustworthy_Physical_AI.pdf`](./Towards_Trustworthy_Physical_AI.pdf) (51 pages)
+- **Paper (PDF):** [`Towards_Trustworthy_Physical_AI.pdf`](./Towards_Trustworthy_Physical_AI.pdf) (51 pages, latest)
 - **SSRN:** https://ssrn.com/abstract=7172338
 - **DOI:** [10.2139/ssrn.7172338](http://dx.doi.org/10.2139/ssrn.7172338)
 - **Posted:** 5 Aug 2026 · **Last revised:** 20 Aug 2026
+
+## Download
+
+- **Latest version:** [`Towards_Trustworthy_Physical_AI.pdf`](./Towards_Trustworthy_Physical_AI.pdf)
+- **V2 — 9 Aug 2026:** [`versions/v2_2026-08-09.pdf`](./versions/v2_2026-08-09.pdf)
+- **V1 — 24 Jul 2026:** [`versions/v1_2026-07-24.pdf`](./versions/v1_2026-07-24.pdf)
+
+> Tip: to download a PDF, open the link and use the download button, or right-click the link and choose "Save link as…".
 
 ## Abstract
 
