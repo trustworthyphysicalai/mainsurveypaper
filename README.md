@@ -41,6 +41,14 @@ Physical AI refers to AI systems that are grounded in the physical world through
 - **Independent research:** This is an independent research work with collaborators around the world.
 - **Open to feedback:** We welcome questions, critiques, and ideas, and we would like to improve this work in all forms. If you would like to communicate, please write to **[trustworthyphysicalai@gmail.com](mailto:trustworthyphysicalai@gmail.com)**.
 
+## Success Criteria
+
+We hold this paper to the following bar. These are the standards we use to judge whether a section is ready and whether a contribution strengthens the work.
+
+- **It should read like a reference book.** Guidance should be prescriptive and actionable: *"if A, B, and C happen, use X, Y, and Z"* — with evidence from this paper or the prior literature demonstrating that X, Y, and Z actually work.
+- **It should give net-new insight.** Rather than restating each source in turn, we connect results across papers, find commonalities, and surface mechanisms that the individual papers do not state on their own.
+- **It should be specific.** Solutions are tied to particular applications and settings, not left at the level of general principle.
+
 ## Citation
 
 ```bibtex
