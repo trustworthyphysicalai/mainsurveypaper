@@ -38,6 +38,8 @@ Physical AI refers to AI systems that are grounded in the physical world through
 - **Monthly updates:** We update our paper on the **first Monday of every month**.
 - **Authorship:** Everyone who contributes in the Overleaf project will be named as an author. To join, please let us know by emailing **[trustworthyphysicalai@gmail.com](mailto:trustworthyphysicalai@gmail.com)**.
 - **Community principle:** This work is for the healthy and safe development of technology, with **no intention to slow down the development of good technology**.
+- **Everyone can grow:** No one is an expert. No one cannot become an expert with the community.
+- **No unnecessary politics:** We do not appreciate unnecessary politics.
 - **Independent research:** This is an independent research work with collaborators around the world.
 - **Open to feedback:** We welcome questions, critiques, and ideas, and we would like to improve this work in all forms. If you would like to communicate, please write to **[trustworthyphysicalai@gmail.com](mailto:trustworthyphysicalai@gmail.com)**.
 
