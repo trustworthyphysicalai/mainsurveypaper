@@ -1,6 +1,6 @@
-# Towards Trustworthy Physical AI: From Theory to Practice across Life Cycle
+# Towards Trustworthy Physical AI: From Theory to Practice Across the Life Cycle
 
-This repository hosts the main survey paper **"Towards Trustworthy Physical AI: From Theory to Practice across Life Cycle."**
+This repository hosts the main survey paper **"Towards Trustworthy Physical AI: From Theory to Practice Across the Life Cycle."**
 
 - **Paper (PDF):** [`Towards_Trustworthy_Physical_AI.pdf`](./Towards_Trustworthy_Physical_AI.pdf) (51 pages, latest)
 - **SSRN:** https://ssrn.com/abstract=7172338
@@ -27,21 +27,24 @@ Physical AI refers to AI systems that are grounded in the physical world through
 
 ![Physical AI overview: landscape, trustworthy Physical AI, and governance framework](./figures/physical_ai_overview.png)
 
-*Source: [`figures/physical_ai_overview.pdf`](./figures/physical_ai_overview.pdf)*
-
 ### Physical AI Life Cycle
 
 ![Physical AI life cycle across knowledge generation and building & operation](./figures/physical_ai_life_cycle.png)
 
-## How We Work
+## Monthly Update Logistics
 
-- **Monthly updates:** We update our paper on the **first Monday of every month**.
+- **Monthly updates:**
+  - **Date:** We update our paper on the **first Monday of every month**.
+  - **Process:** We will send a draft to everyone for review the **Sunday before**. Feel free to provide feedback and preferences.
 - **Authorship:** Everyone who contributes in the Overleaf project will be named as an author. To join, please let us know by emailing **[trustworthyphysicalai@gmail.com](mailto:trustworthyphysicalai@gmail.com)**.
-- **Community principle:** This work is for the healthy and safe development of technology, with **no intention to slow down the development of good technology**.
-- **Everyone can grow:** No one is an expert. No one cannot become an expert with this community.
-- **No unnecessary politics:** We do not appreciate unnecessary politics.
+
+## Community Principles
+
+- **Community principle:** This work is for the healthy and safe development of technology, with no intention to slow down the development of good technology.
 - **Independent research:** This is an independent research work with collaborators around the world.
 - **Open to feedback:** We welcome questions, critiques, and ideas, and we would like to improve this work in all forms. If you would like to communicate, please write to **[trustworthyphysicalai@gmail.com](mailto:trustworthyphysicalai@gmail.com)**.
+- **Everyone can grow:** No one is an expert. No one cannot become an expert with this community.
+- **No unnecessary politics:** We do not appreciate unnecessary politics.
 
 ## Outstanding List
 
@@ -61,8 +64,8 @@ We hold this paper to the following bar. These are the standards we use to judge
 
 ```bibtex
 @article{yang2026trustworthyphysicalai,
-  title   = {Towards Trustworthy Physical AI: From Theory to Practice across Life Cycle},
-  author  = {Yang, Van and Wang, Shaobo and Liu, Hongxuan and Cai, Xiaoran and He, Yunyu and Zhou, Jingzong and Ma, Mengzhong and Yu, Yi and Sharma, Rohit and Fu, Jingjing and Qi, Peng},
+  title   = {Towards Trustworthy Physical AI: From Theory to Practice Across the Life Cycle},
+  author  = {Yang, Wang and Liu, Hongxuan and Xu, Xinghui and Menon, Arjun and Cai, Xiaoran and He, Yunyu and Zhou, Jingzong and Ma, Mengzhong and Wei, Xinpeng and Dennler, Nathaniel and Yu, Yi and Wang, Shaobo and Peng, Cheng and Jiao, Aoran and Korolev, Alexei and Banerjee, Ashis G. and Zhang, Yanyan and Ye, Kai and Li, Xinpeng and Guo, Chengquan and Fu, Jingjing and Urbonas, Marius and Tus, Traian and Zhou, Gaoyue and Ortiz, George and Guzey, Irmak and Ren, Silei and Johannsmeier, Lars and Sharma, Rohit and Feng, Felix and Bengio, Yoshua and Qi, Peng},
   year    = {2026},
   note    = {SSRN Working Paper},
   doi     = {10.2139/ssrn.7172338},
