@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <title>Trustworthy Physical AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@200;300;400&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css?v=17" />
+</head>
+<body class="landing-page">
+  <header class="site-header landing-nav">
+    <a class="wordmark" href="about.html">Trustworthy Physical AI</a>
+    <nav>
+      <a href="about.html">Home</a>
+      <a href="team.html">Team</a>
+      <a href="work.html">Our Work</a>
+    </nav>
+  </header>
+
+  <main class="landing-stage" aria-label="Humanoid robot video">
+    <div class="photo-frame">
+      <video class="landing-photo" autoplay muted playsinline>
+        <source src="assets/landing.mp4?v=12" type="video/mp4" />
+      </video>
+    </div>
+  </main>
+
+  <footer class="site-footer landing-footer">
+    <span>© 2026 Trustworthy Physical AI. All rights reserved.</span>
+  </footer>
+
+  <script>
+    (function () {
+      var video = document.querySelector(".landing-photo");
+      function goHome() {
+        window.location.replace("about.html");
+      }
+      if (!video) {
+        goHome();
+        return;
+      }
+      video.addEventListener("ended", goHome);
+      video.addEventListener("error", goHome);
+    })();
+  </script>
+</body>
+</html>
