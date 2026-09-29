@@ -261,10 +261,10 @@ h1 {
   letter-spacing: 0.22em;
   text-transform: uppercase;
   color: var(--muted);
-  border-top: 1px solid var(--line);
   margin: 18px 0 16px;
-  padding-top: 16px;
+  padding-top: 0;
   text-align: center;
+  border-top: none;
 }
 .work-block .partners-kicker,
 .home-section .partners-kicker {
