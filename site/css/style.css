@@ -247,19 +247,19 @@ h1 {
   margin: 28px 0 22px;
 }
 .home-partners .partner-track {
-  gap: 52px;
+  gap: 36px;
 }
 .home-partners .partner {
-  min-width: 112px;
-  max-width: 220px;
+  min-width: 80px;
+  max-width: 140px;
 }
 .home-partners .partner img {
-  height: 64px;
-  max-width: 210px;
+  height: 40px;
+  max-width: 130px;
 }
 .home-partners .partner figcaption {
-  margin-top: 10px;
-  font-size: 14px;
+  margin-top: 8px;
+  font-size: 12px;
 }
 .partners {
   text-align: center;
